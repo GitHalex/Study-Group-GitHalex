@@ -31,6 +31,6 @@ sumar(3, 2)
 
 enlaces
 
-[Titulo](www.freecodecamp.com)
+[Python](python.org)
 
-![This is JavaScript](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
+![This is Python](Python_logo.png)
