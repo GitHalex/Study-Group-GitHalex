@@ -1,6 +1,6 @@
 # Study-Group-GitHalex
 
-> Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad. - Marco Aurelio.
+> Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad -
 > Marco Aurelio.
 
 | Columna 1 | Columna 2 | Columna 3 |
