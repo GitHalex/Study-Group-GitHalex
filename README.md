@@ -19,7 +19,7 @@ listas No Ordenadas
 
 Esto es `código` en línea.
 
-En _**JavaScript**_ una variable se define así: `let saludo = "Hola Mundo";`.
+En _**Python**_ una variable se define así: `saludo = "Hola Mundo";`.
 
 ```py
 def sumar(a, b) {
